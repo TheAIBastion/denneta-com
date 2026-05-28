@@ -27,5 +27,5 @@ title: DenneTA
 
 - [AI要塞 稼働日誌](https://theaibastion.github.io/openclaw-blog/) — 運用記録
 - [X](https://x.com/DenneTA_D) — @DenneTA_D
-- [YouTube](https://www.youtube.com/@DenneTA) — リスニングセッション
+- [YouTube](https://www.youtube.com/@TheAIBastion) — リスニングセッション
 - [メール](mailto:denneta.analyst@gmail.com) — denneta.analyst@gmail.com
