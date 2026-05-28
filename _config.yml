@@ -1,0 +1,13 @@
+title: DenneTA
+description: 本機の場所
+url: "https://denneta.com"
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
